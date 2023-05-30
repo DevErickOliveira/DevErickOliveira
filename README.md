@@ -1,7 +1,7 @@
 ### Hello! I'm Eick Oliveira 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9rick-oliveira)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+
 
 ![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevErickOliveira&show_icons=true&theme=transparent)
 
